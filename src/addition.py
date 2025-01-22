@@ -1,5 +1,5 @@
 # app.py
-# This is a test commit from boogeyman checking for GH Actions
+# This is a test commit from boogeyman checking for GH Actions & Code QL
 def add(a, b):
     return a + b
 
